@@ -1,0 +1,244 @@
+group,area,code,population
+world,Afghanistan,AFG,38.928340999999996
+world,Albania,ALB,2.8778
+world,Algeria,DZA,43.851043
+world,Andorra,AND,0.077265
+world,Angola,AGO,32.866268
+world,Antigua and Barbuda,ATG,0.097928
+world,Argentina,ARG,45.195777
+world,Armenia,ARM,2.963234
+world,Austria,AUT,9.0064
+world,Azerbaijan,AZE,10.139175
+world,Bahamas,BHS,0.393248
+world,Bahrain,BHR,1.701583
+world,Bangladesh,BGD,164.68938300000002
+world,Barbados,BRB,0.287371
+world,Belarus,BLR,9.449321000000001
+world,Belgium,BEL,11.589616
+world,Belize,BLZ,0.397621
+world,Benin,BEN,12.123198
+world,Bhutan,BTN,0.771612
+world,Bolivia,BOL,11.673029
+world,Bosnia and Herzegovina,BIH,3.280815
+world,Botswana,BWA,2.351625
+world,Brazil,BRA,212.559409
+world,Brunei,BRN,0.437483
+world,Bulgaria,BGR,6.9484449999999995
+world,Burkina Faso,BFA,20.903278
+world,Myanmar,MMR,54.40979399999999
+world,Burundi,BDI,11.890781
+world,Cabo Verde,CPV,0.555988
+world,Cambodia,KHM,16.718971
+world,Cameroon,CMR,26.545864
+world,Central African Republic,CAF,4.829764
+world,Chad,TCD,16.425859
+world,Chile,CHL,19.116209
+world,Colombia,COL,50.882884000000004
+world,Congo (Brazzaville),COG,5.518092
+world,Congo (Kinshasa),COD,89.56140400000001
+world,Comoros,COM,0.8695950000000001
+world,Costa Rica,CRI,5.094114
+world,Cote d'Ivoire,CIV,26.378275
+world,Croatia,HRV,4.105268
+world,Cuba,CUB,11.326616
+world,Cyprus,CYP,1.2073610000000001
+world,Czechia,CZE,10.708982
+world,Denmark,DNK,5.792203
+world,Djibouti,DJI,0.988002
+world,Dominica,DMA,0.071991
+world,Dominican Republic,DOM,10.847904
+world,Ecuador,ECU,17.643060000000002
+world,Egypt,EGY,102.33440300000001
+world,El Salvador,SLV,6.486201
+world,Equatorial Guinea,GNQ,1.402985
+world,Eritrea,ERI,3.5464269999999996
+world,Estonia,EST,1.326539
+world,Eswatini,SWZ,1.160164
+world,Ethiopia,ETH,114.96358300000001
+world,Fiji,FJI,0.896444
+world,Finland,FIN,5.540718
+world,France,FRA,65.273512
+world,Gabon,GAB,2.2257279999999997
+world,Gambia,GMB,2.416664
+world,Georgia,GEO,3.989175
+world,Germany,DEU,83.78394499999999
+world,Ghana,GHA,31.072945
+world,Greece,GRC,10.423055999999999
+world,Grenada,GRD,0.11251900000000001
+world,Guatemala,GTM,17.915567000000003
+world,Guinea,GIN,13.132792000000002
+world,Guinea-Bissau,GNB,1.967998
+world,Guyana,GUY,0.786559
+world,Haiti,HTI,11.402533
+world,Vatican City,VAT,0.0008089999999999999
+world,Honduras,HND,9.904608
+world,Hungary,HUN,9.66035
+world,Iceland,ISL,0.34125
+world,India,IND,1380.004385
+world,Indonesia,IDN,273.523621
+world,Iran,IRN,83.992953
+world,Iraq,IRQ,40.222503
+world,Ireland,IRL,4.937796
+world,Israel,ISR,8.655541
+world,Italy,ITA,60.461828000000004
+world,Jamaica,JAM,2.961161
+world,Japan,JPN,126.47645800000001
+world,Jordan,JOR,10.20314
+world,Kazakhstan,KAZ,18.776707000000002
+world,Kenya,KEN,53.7713
+world,South Korea,KOR,51.269183
+world,Kosovo,XKS,1.810366
+world,Kuwait,KWT,4.270563
+world,Kyrgyzstan,KGZ,6.524191
+world,Laos,LAO,7.275556
+world,Latvia,LVA,1.886202
+world,Lebanon,LBN,6.825442
+world,Lesotho,LSO,2.142252
+world,Liberia,LBR,5.057677
+world,Libya,LBY,6.871287
+world,Liechtenstein,LIE,0.038137
+world,Lithuania,LTU,2.722291
+world,Luxembourg,LUX,0.625976
+world,Madagascar,MDG,27.691019
+world,Malawi,MWI,19.129955
+world,Malaysia,MYS,32.365998
+world,Maldives,MDV,0.540542
+world,Mali,MLI,20.250834
+world,Malta,MLT,0.441539
+world,Mauritania,MRT,4.64966
+world,Mauritius,MUS,1.271767
+world,Mexico,MEX,127.792286
+world,Moldova,MDA,4.033963
+world,Monaco,MCO,0.039244
+world,Mongolia,MNG,3.278292
+world,Montenegro,MNE,0.628062
+world,Morocco,MAR,36.910558
+world,Mozambique,MOZ,31.255435
+world,Namibia,NAM,2.540916
+world,Nepal,NPL,29.136808000000002
+world,Netherlands,NLD,17.134873000000002
+world,New Zealand,NZL,4.822233
+world,Nicaragua,NIC,6.624553999999999
+world,Niger,NER,24.206636
+world,Nigeria,NGA,206.139587
+world,North Macedonia,MKD,2.08338
+world,Norway,NOR,5.4212419999999995
+world,Oman,OMN,5.106622
+world,Pakistan,PAK,220.892331
+world,Panama,PAN,4.314768
+world,Papua New Guinea,PNG,8.947027
+world,Paraguay,PRY,7.13253
+world,Peru,PER,32.971846
+world,Philippines,PHL,109.58108500000002
+world,Poland,POL,37.846605
+world,Portugal,PRT,10.196707
+world,Qatar,QAT,2.8810599999999997
+world,Romania,ROU,19.237682
+world,Russia,RUS,145.93446
+world,Rwanda,RWA,12.952209
+world,Saint Kitts and Nevis,KNA,0.053191999999999996
+world,Saint Lucia,LCA,0.183629
+world,Saint Vincent and the Grenadines,VCT,0.110947
+world,San Marino,SMR,0.033938
+world,Sao Tome and Principe,STP,0.21916100000000002
+world,Saudi Arabia,SAU,34.813867
+world,Senegal,SEN,16.74393
+world,Serbia,SRB,8.73737
+world,Seychelles,SYC,0.09834
+world,Sierra Leone,SLE,7.976985000000001
+world,Singapore,SGP,5.850343
+world,Slovakia,SVK,5.459643
+world,Slovenia,SVN,2.078932
+world,Somalia,SOM,15.893219
+world,South Africa,ZAF,59.308690000000006
+world,South Sudan,SSD,11.193729
+world,Spain,ESP,46.754783
+world,Sri Lanka,LKA,21.41325
+world,Sudan,SDN,43.849269
+world,Suriname,SUR,0.586634
+world,Sweden,SWE,10.099269999999999
+world,Switzerland,CHE,8.654618
+world,Syria,SYR,17.500657
+world,Taiwan,TWN,23.816775
+world,Tajikistan,TJK,9.537642
+world,Tanzania,TZA,59.734213000000004
+world,Thailand,THA,69.799978
+world,Timor-Leste,TLS,1.3184420000000001
+world,Togo,TGO,8.278737
+world,Trinidad and Tobago,TTO,1.399491
+world,Tunisia,TUN,11.818617999999999
+world,Turkey,TUR,84.339067
+world,Uganda,UGA,45.74100000000001
+world,Ukraine,UKR,43.733759
+world,United Arab Emirates,ARE,9.8904
+world,United Kingdom,GBR,67.886004
+world,Uruguay,URY,3.473727
+world,Uzbekistan,UZB,33.469198999999996
+world,Venezuela,VEN,28.435942999999998
+world,Vietnam,VNM,97.338583
+world,West Bank and Gaza,PSE,5.101416
+world,Western Sahara,ESH,0.59733
+world,Yemen,YEM,29.825968
+world,Zambia,ZMB,18.383956
+world,Zimbabwe,ZWE,14.862926999999999
+world,Australia,AUS,25.4597
+world,Canada,CAN,37.855702
+world,China,CHN,1404.67633
+world,USA,USA,329.46628300000003
+world,North Korea,PRK,25.55
+usa,Alabama,AL,4.9
+usa,Alaska,AK,0.73
+usa,Arizona,AZ,7.28
+usa,Arkansas,AR,3.02
+usa,California,CA,39.51
+usa,Colorado,CO,5.76
+usa,Connecticut,CT,3.57
+usa,Delaware,DE,0.97
+usa,Florida,FL,21.48
+usa,Georgia,GA,10.62
+usa,Hawaii,HI,1.42
+usa,Idaho,ID,1.79
+usa,Illinois,IL,12.67
+usa,Indiana,IN,6.73
+usa,Iowa,IA,3.16
+usa,Kansas,KS,2.91
+usa,Kentucky,KY,4.47
+usa,Louisiana,LA,4.65
+usa,Maine,ME,1.34
+usa,Maryland,MD,6.05
+usa,Massachusetts,MA,6.89
+usa,Michigan,MI,9.99
+usa,Minnesota,MN,5.64
+usa,Mississippi,MS,2.98
+usa,Missouri,MO,6.63
+usa,Montana,MT,1.07
+usa,Nebraska,NE,1.93
+usa,Nevada,NV,3.08
+usa,New Hampshire,NH,1.36
+usa,New Jersey,NJ,8.88
+usa,New Mexico,NM,2.1
+usa,New York,NY,23.63
+usa,North Carolina,NC,10.49
+usa,North Dakota,ND,0.76
+usa,Ohio,OH,11.69
+usa,Oklahoma,OK,3.96
+usa,Oregon,OR,4.22
+usa,Pennsylvania,PA,12.8
+usa,Rhode Island,RI,1.06
+usa,South Carolina,SC,5.15
+usa,South Dakota,SD,0.88
+usa,Tennessee,TN,6.83
+usa,Texas,TX,29.0
+usa,Utah,UT,3.21
+usa,Vermont,VT,0.62
+usa,Virginia,VA,8.54
+usa,Washington,WA,7.61
+usa,West Virginia,WV,1.79
+usa,Wisconsin,WI,5.82
+usa,Wyoming,WY,0.58
+usa,District of Columbia,DC,0.71
+usa,Puerto Rico,PR,3.194
+usa,Guam,GU,0.165
+usa,Virgin Islands,VI,0.106
+usa,Northern Mariana Islands,MP,0.054000000000000006
+usa,American Samoa,AS,0.055
