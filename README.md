@@ -34,7 +34,7 @@ It is vital that your machine is setup properly before the start of the course. 
 ### Create the virtual environment
 
 1. Using the `cd` command
-    1. Open your terminal/command prompt and navigate to the folder you just unzipped and moved from above
+    1. Navigate to the folder you just unzipped and moved from above
     1. Navigate into the `project` directory
 1. Run the command `python -m venv dashboard_venv`. This creates a new virtual environment named **dashboard_venv**
 1. Activate the virtual environment with the following command:
@@ -44,4 +44,14 @@ It is vital that your machine is setup properly before the start of the course. 
 1. Run `pip install -U pip` to upgrade pip to the latest version
 1. Run `pip install -r requirements.txt` to install all the necessary packages into this environment. This will take some time to complete
 
+## Launch the dashboard
+
+1. Run the command `python dashboard.py`
+1. The following text should be printed to the screen - **Dash is running on http://127.0.0.1:8050/**
+1. Open your web browser and navigate to 127.0.0.1:8050
+1. You should see the coronavirus forecasting dashboard
+
+![2]
+
 [1]: https://github.com/tdpetrou/Build-an-Interactive-Data-Analytics-Dashboard-with-Python-Oreilly
+[2]: images/dashboardss.png
