@@ -94,25 +94,25 @@ def create_table(group):
         style_table={
             # dash bug - when fixed_rows provided
             # both minHeight and height are required to set height
-            "minHeight": "85vh",
+            "min-height": "85vh",
             "height": "85vh",
-            "overflowY": "scroll",
-            "borderRadius": "0px 0px 10px 10px",
+            "overflow-y": "scroll",
+            "border-radius": "0px 0px 10px 10px",
         },
         # CSS for ALL cells
         style_cell={
-            "whiteSpace": "normal",
+            "white-space": "normal",
             "height": "auto",
             "font-family": "verdana",
         },
         # CSS for only header cells
         style_header={
-            "textAlign": "center",
-            "fontSize": 14,
+            "text-align": "center",
+            "font-size": 14,
         },
         # CSS for only data cells
         style_data={
-            "fontSize": 12,
+            "font-size": 12,
         },
         # Conditional CSS styling for first column.
         # Underline name and change cursor to indicate
@@ -121,12 +121,12 @@ def create_table(group):
             {
                 "if": {"column_id": first_col},
                 "width": "120px",
-                "textAlign": "left",
-                "textDecoration": "underline",
+                "text-align": "left",
+                "text-decoration": "underline",
                 "cursor": "pointer",
             },
             # Style every other row with a light background color
-            {"if": {"row_index": "odd"}, "backgroundColor": "#fafbfb"},
+            {"if": {"row_index": "odd"}, "background-color": "#fafbfb"},
         ],
     )
 
@@ -240,12 +240,12 @@ def make_cumulative_graphs(fig, df_dict, kinds):
     None, updates figures in place with `add_scatter` method
     """
     for row, kind in enumerate(kinds, start=1):
-        for i, (name, df) in enumerate(df_dict.items()):
+        for (name, df), color in zip(df_dict.items(), COLORS):
             fig.add_scatter(
                 x=df.index,
                 y=df[kind],
                 mode="lines+markers",
-                line={"color": COLORS[i]},
+                line={"color": color},
                 showlegend=row == 1,
                 name=name,
                 row=row,
@@ -258,11 +258,11 @@ def make_daily_graphs(fig, df_dict, kinds):
     Make daily bar graphs for actual and predicted values of deaths and cases
     """
     for row, kind in enumerate(kinds, start=1):
-        for i, (name, df) in enumerate(df_dict.items()):
+        for (name, df), color in zip(df_dict.items(), COLORS):
             fig.add_bar(
                 x=df.index,
                 y=df[kind],
-                marker={"color": COLORS[i]},
+                marker={"color": color},
                 showlegend=row == 1,
                 name=name,
                 row=row,
@@ -283,13 +283,13 @@ def make_weekly_graphs(fig, df_dict, kinds):
     }
 
     for row, kind in enumerate(kinds, start=1):
-        for i, (name, df) in enumerate(df_dict.items()):
+        for (name, df), color in zip(df_dict.items(), COLORS):
             fig.add_scatter(
                 x=df.index,
                 y=df[kind],
                 mode="lines+markers",
                 showlegend=row == 1,
-                line={"color": COLORS[i]},
+                line={"color": color},
                 name=name,
                 row=row,
                 col=1,
