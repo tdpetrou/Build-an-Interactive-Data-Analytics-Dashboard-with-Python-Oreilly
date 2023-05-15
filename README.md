@@ -37,6 +37,7 @@ It is vital that your machine is setup properly before the start of the course. 
     1. Navigate to the folder you just unzipped and moved from above
     1. Navigate into the `project` directory
 1. Run the command `python -m venv dashboard_venv`. This creates a new virtual environment named **dashboard_venv**
+1. Deactivate the conda environment with `conda deactivate`
 1. Activate the virtual environment with the following command:
     1. Mac/Linux - `source dashboard_venv/bin/activate`
     2. Windows - `dashboard_venv\Scripts\activate.bat`
